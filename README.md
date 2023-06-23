@@ -1,5 +1,5 @@
 # <h1> Seja bem vindo(a)!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<h2>🖥️ Somos uma equipe de desenvolvedores Full Stack e designers que acreditam no poder da tecnologia para transformar negócios.</2>
+<h2>🖥️ Somos uma equipe de desenvolvedores e designers que estamos prontos para mudar seu negocio.</2>
 
 
 
